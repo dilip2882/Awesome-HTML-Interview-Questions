@@ -3,8 +3,7 @@
 A curated list of amazingly awesome HTML Interview Questions, resources and shiny things.
 
 ## Table of Contents
-
-[HTML Basics](# HTML Basics)
+###[HTML Basics](#html-basics)
 
 1.  [HTML document](#html-document)
 2.  [HTML head](#html-head)
@@ -15,7 +14,8 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
 7.  [HTML buttons](#html-buttons)
 8.  [HTML lists](#html-lists)
 
-## HTML Basics
+
+### HTML Basics
 
 ### HTML Document:
 
