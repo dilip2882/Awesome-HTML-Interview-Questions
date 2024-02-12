@@ -113,6 +113,7 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
    <head>
        <title>This is the Title of the Page</title>
    </head>
+   ```
 
    [⬆ back to top](#table-of-contents)
 
@@ -127,3 +128,24 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
    <head>
        <meta charset="UTF-8">
    </head>
+   ```
+
+   [⬆ back to top](#table-of-contents)
+
+8. **Explain the difference between the `<meta charset="UTF-8">` and `<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">` declarations.**  
+   - `<meta charset="UTF-8">`: Specifies the character encoding of the HTML document directly within the meta tag. It is the preferred method for specifying character encoding.
+   - `<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">`: Specifies the character encoding of the HTML document using an HTTP header. It is an older method and is less commonly used now.
+
+   [⬆ back to top](#table-of-contents)
+
+9. **What is the purpose of the `<meta>` tag in HTML?**  
+   The `<meta>` tag in HTML is used to provide meta-information about the document, such as character encoding, viewport settings, author information, keywords, and description. It is placed within the `<head>` element and does not contain visible content.
+
+   [⬆ back to top](#table-of-contents)
+
+10. **How do you include comments in an HTML document?**  
+    Comments in HTML are included using the `<!-- -->` syntax. Anything placed between `<!--` and `-->` will be treated as a comment and will not be rendered by the browser. Comments are often used to add notes or descriptions to the code for better readability and understanding.
+    ```html
+    <!-- This is a comment -->
+    ```
+    [⬆ back to top](#table-of-contents)
