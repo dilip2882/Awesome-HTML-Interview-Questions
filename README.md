@@ -114,7 +114,6 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
        <title>This is the Title of the Page</title>
    </head>
    ```
-
    [⬆ back to top](#table-of-contents)
 
 6. **What is the viewport meta tag in HTML?**  
