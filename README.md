@@ -591,7 +591,7 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
    ```
    [⬆ back to top](#table-of-contents)
 
-   8. **Can you nest links within each other in HTML? If so, what are the limitations?**  
+8. **Can you nest links within each other in HTML? If so, what are the limitations?**  
    No, HTML does not allow nesting of anchor tags within each other. Attempting to do so may lead to unpredictable behavior, and it is generally not considered a valid practice.
 
    [⬆ back to top](#table-of-contents)
