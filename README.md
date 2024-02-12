@@ -8,8 +8,8 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
 
 1.  [HTML document](#html-document)
 2.  [HTML head](#html-head)
-3.  [HTML headings](#html-tags)
-4.  [HTML paragraphs](#html-headings)
+3.  [HTML headings](#HTML-headings)
+4.  [HTML paragraphs](#html-paragraphs)
 5.  [HTML links](#html-links)
 6.  [HTML images](#html-images)
 7.  [HTML buttons](#html-buttons)
