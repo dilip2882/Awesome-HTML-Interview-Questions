@@ -369,7 +369,7 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
     ```
     [⬆ back to top](#table-of-contents)
 
-## HTML Headings
+### HTML Headings
 
 1. **What are HTML headings and why are they important?**  
    HTML headings are elements used to define the headings or titles of sections within a web page. They are important for organizing and structuring content, providing hierarchy and clarity to the page's layout, and improving accessibility and SEO.
