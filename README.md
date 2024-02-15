@@ -1160,8 +1160,6 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
 
     [⬆ back to top](#table-of-contents)
 
-    ### HTML Lists:
-
 26. **What is the purpose of the `list-style-type` property in CSS?**  
    The `list-style-type` property in CSS is used to specify the appearance of the list item marker (bullet point or numbering) for unordered and ordered lists. It allows you to change the style of the marker to different types such as disc, circle, square, decimal, etc.
 
@@ -1192,7 +1190,7 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
    [⬆ back to top](#table-of-contents)
 
 30. **How can you change the spacing between list items using CSS?**  
-   You can change the spacing between list items using CSS by applying margin or padding properties to the list items (<li>). By adjusting the margin or padding values, you can control the spacing between individual list items, either horizontally or vertically.
+   You can change the spacing between list items using CSS by applying margin or padding properties to the list items (`<li>`). By adjusting the margin or padding values, you can control the spacing between individual list items, either horizontally or vertically.
 
    Example:
    ```html
@@ -1207,6 +1205,28 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
    ```
    
    [⬆ back to top](#table-of-contents)
+
+31. **What are HTML list attributes?**  
+   HTML lists can have attributes that define various properties such as type, start, and compactness. Some commonly used HTML list attributes include:
+   - `type`: Specifies the type of list item marker (e.g., disc, circle, square for unordered lists; 1, A, a, I, i for ordered lists).
+   - `start`: Specifies the starting value of an ordered list.
+   - `compact`: Deprecated attribute used to specify whether the list should be displayed more compactly.
+
+   Example:
+   ```html
+   <ul type="circle">
+       <li>Item 1</li>
+       <li>Item 2</li>
+       <li>Item 3</li>
+   </ul>
+   <ol start="5">
+       <li>Item 5</li>
+       <li>Item 6</li>
+       <li>Item 7</li>
+   </ol>
+   ```
+   [⬆ back to top](#table-of-contents)
+
 
    
 
