@@ -864,10 +864,7 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
    ```html
    <button>Click Me</button>
    ```
-
    [⬆ back to top](#table-of-contents)
-
-   ## HTML Buttons
 
 3. **What are the different types of buttons in HTML?**  
    In HTML, different types of buttons include `<button>`, `<input type="button">`, `<input type="submit">`, and `<input type="reset">`.
@@ -988,8 +985,6 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
     You can create a button that opens a new window/tab when clicked by using the `window.open()` method in JavaScript and attaching it to the button's click event.
 
     [⬆ back to top](#table-of-contents)
-
-    ### HTML Buttons:
 
 26. **What are the HTML button attributes?**  
    HTML button elements can have various attributes to control their behavior and appearance. Some common attributes include:
