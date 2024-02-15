@@ -706,8 +706,7 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
     - Implementing security measures such as Content Security Policy (CSP) to mitigate XSS attacks.
     - Using link preview features provided by browsers or security plugins to inspect URLs before clicking.
     
-    [⬆ back to top](#table-of-contents)
-
+    [⬆ back to top](#table-of-contents)\
 
 ### HTML Images
 
@@ -732,8 +731,6 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
    ```
 
    [⬆ back to top](#table-of-contents)
-
-   ## HTML Images
 
 4. **What attributes can you use with the `<img>` tag?**  
    The `<img>` tag supports various attributes, including:
@@ -854,6 +851,168 @@ A curated list of amazingly awesome HTML Interview Questions, resources and shin
     An image map in HTML allows you to define clickable areas on an image that link to different destinations. This can be achieved using the `<map>` and `<area>` elements. The `<map>` element is used to define the image map, while the `<area>` elements define the clickable areas and their respective destinations.
 
     [⬆ back to top](#table-of-contents)
+
+### HTML Buttons
+
+1. **What is an HTML button?**  
+   An HTML button is an interactive element that allows users to perform actions or submit forms on a web page. Buttons can be styled and customized using HTML, CSS, and JavaScript.
+
+   [⬆ back to top](#table-of-contents)
+
+2. **How do you create a button in HTML?**  
+   You can create a button in HTML using the `<button>` element. For example:
+   ```html
+   <button>Click Me</button>
+   ```
+
+   [⬆ back to top](#table-of-contents)
+
+   ## HTML Buttons
+
+3. **What are the different types of buttons in HTML?**  
+   In HTML, different types of buttons include `<button>`, `<input type="button">`, `<input type="submit">`, and `<input type="reset">`.
+
+   [⬆ back to top](#table-of-contents)
+
+4. **How do you specify the text displayed on a button?**  
+   The text displayed on a button is specified between the opening and closing `<button>` tags or using the `value` attribute for `<input type="button">`.
+
+   [⬆ back to top](#table-of-contents)
+
+5. **How can you create a button with an image in HTML?**  
+   You can create a button with an image in HTML by using the `<button>` element and inserting an `<img>` element inside it.
+
+   [⬆ back to top](#table-of-contents)
+
+6. **What is the purpose of the "type" attribute in the `<button>` element?**  
+   The `type` attribute in the `<button>` element specifies the type of button. It determines the behavior of the button when clicked.
+
+   [⬆ back to top](#table-of-contents)
+
+7. **What are the values that can be assigned to the "type" attribute of a button?**  
+   The values that can be assigned to the `type` attribute of a button are:
+   - `submit`: Submits the form data.
+   - `reset`: Resets the form fields.
+   - `button`: Standard button (default behavior).
+
+   [⬆ back to top](#table-of-contents)
+
+8. **Explain the difference between "submit" and "button" types of buttons in HTML.**  
+   - `<button type="submit">`: Submits the form data.
+   - `<button type="button">`: Behaves like a regular button, does not submit the form.
+
+   [⬆ back to top](#table-of-contents)
+
+9. **How do you create a button that acts as a link in HTML?**  
+   You can create a button that acts as a link in HTML by wrapping it in an anchor (`<a>`) tag or by using JavaScript to handle the button click event and redirecting to the desired URL.
+
+   [⬆ back to top](#table-of-contents)
+
+10. **What is the purpose of the "disabled" attribute in HTML buttons?**  
+    The `disabled` attribute in HTML buttons disables the button, making it non-clickable and visually indicating that it is inactive.
+
+    [⬆ back to top](#table-of-contents)
+
+11. **How do you disable a button in HTML?**  
+    You can disable a button in HTML by adding the `disabled` attribute to the button element.
+
+    [⬆ back to top](#table-of-contents)
+
+12. **Explain the significance of the "form" attribute in the `<button>` element.**  
+    The `form` attribute in the `<button>` element specifies the form to which the button belongs. It allows the button to interact with the specified form, even if it's outside of it.
+
+    [⬆ back to top](#table-of-contents)
+
+13. **How can you style HTML buttons using CSS?**  
+    HTML buttons can be styled using CSS by targeting their element type, class, or ID and applying various CSS properties like `background-color`, `border`, `padding`, `font-size`, etc.
+
+    [⬆ back to top](#table-of-contents)
+
+14. **What is the purpose of the "name" attribute in HTML buttons?**  
+    The `name` attribute in HTML buttons is used to identify the button's value when submitting a form.
+
+    [⬆ back to top](#table-of-contents)
+
+15. **How do you handle button clicks in JavaScript?**  
+    Button clicks in JavaScript can be handled by attaching event listeners to the button elements and defining callback functions to execute when the button is clicked.
+
+    [⬆ back to top](#table-of-contents)
+
+16. **Explain the difference between the `<button>` element and the `<input>` element with type="button".**  
+    - `<button>` element: Allows more complex content (such as images or other HTML elements) and supports multiline text.
+    - `<input type="button">` element: Limited to a single line of text or an image as its value.
+
+    [⬆ back to top](#table-of-contents)
+
+17. **How do you create a button with rounded corners in HTML/CSS?**  
+    You can create a button with rounded corners in HTML/CSS by applying the `border-radius` property to the button element.
+
+    [⬆ back to top](#table-of-contents)
+
+18. **What is the role of the "value" attribute in HTML buttons?**  
+    The `value` attribute in HTML buttons specifies the initial value of the button. It defines the text or image displayed on the button.
+
+    [⬆ back to top](#table-of-contents)
+
+19. **How can you create a button with a tooltip in HTML?**  
+    You can create a button with a tooltip in HTML by using the `title` attribute to provide the tooltip text, which will be displayed when the user hovers over the button.
+
+    [⬆ back to top](#table-of-contents)
+
+20. **How do you create a button with different states (hover, active, focus) in CSS?**  
+    You can create a button with different states (hover, active, focus) in CSS by using pseudo-classes such as `:hover`, `:active`, and `:focus` to define different styles for each state.
+
+    [⬆ back to top](#table-of-contents)
+
+21. **Can you nest HTML elements within a `<button>` element?**  
+    Yes, HTML elements can be nested within a `<button>` element.
+
+    [⬆ back to top](#table-of-contents)
+
+22. **What are ARIA attributes, and how can they be used with HTML buttons to improve accessibility?**  
+    ARIA (Accessible Rich Internet Applications) attributes are HTML attributes used to enhance the accessibility of web content for users with disabilities. They can be used with HTML buttons to provide additional information, such as roles, states, and properties, to assistive technologies.
+
+    [⬆ back to top](#table-of-contents)
+
+23. **How do you create a button that triggers a JavaScript function without submitting a form?**  
+    You can create a button that triggers a JavaScript function without submitting a form by attaching an event listener to the button element and calling the desired JavaScript function when the button is clicked.
+
+    [⬆ back to top](#table-of-contents)
+
+24. **Explain the role of the "autofocus" attribute in HTML buttons.**  
+    The `autofocus` attribute in HTML buttons automatically focuses on the button when the page loads, making it ready to receive user input without requiring manual selection.
+
+    [⬆ back to top](#table-of-contents)
+
+25. **How can you create a button that opens a new window/tab when clicked?**  
+    You can create a button that opens a new window/tab when clicked by using the `window.open()` method in JavaScript and attaching it to the button's click event.
+
+    [⬆ back to top](#table-of-contents)
+
+    ### HTML Buttons:
+
+26. **What are the HTML button attributes?**  
+   HTML button elements can have various attributes to control their behavior and appearance. Some common attributes include:
+   - `type`: Specifies the type of button (e.g., "button", "submit", "reset").
+   - `name`: Specifies the name of the button, which is used when submitting form data.
+   - `value`: Specifies the initial value of the button.
+   - `disabled`: Indicates whether the button should be disabled.
+   - `onclick`: Specifies a JavaScript function to execute when the button is clicked.
+   - `form`: Specifies the form element to associate the button with.
+   - `autofocus`: Specifies that the button should automatically get focus when the page loads.
+   - `formaction`: Specifies the URL where to send the form data when the button is clicked (for type="submit").
+   - `formmethod`: Specifies the HTTP method (GET or POST) to use when sending form data (for type="submit").
+   - `formenctype`: Specifies the encoding type to use when sending form data (for type="submit").
+   - `formtarget`: Specifies where to display the response after submitting the form (for type="submit").
+   - `formnovalidate`: Specifies that the form data should not be validated when submitted (for type="submit").
+   - `formnovalidate`: Specifies that the form data should not be validated when submitted (for type="submit").
+
+   [⬆ back to top](#table-of-contents)
+
+
+
+   
+
 
 
    
